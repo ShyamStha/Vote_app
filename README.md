@@ -1,5 +1,6 @@
 # Demo voting app for election 
 
+<img width="1439" alt="Screen Shot 2022-05-14 at 00 02 46" src="https://user-images.githubusercontent.com/43292987/168343792-cd21dc54-75a8-4a8e-a7b9-aa1b1c023509.png">
 
 # Getting Started with Create React App
 
